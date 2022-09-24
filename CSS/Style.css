@@ -1,0 +1,35 @@
+
+
+body{
+    background: rgb(232,255,120);
+background: linear-gradient(90deg, rgba(232,255,120,0.2049194677871149) 0%, rgba(89,80,21,0.30015756302521013) 34%, rgba(255,132,0,0.3841911764705882) 100%);
+}
+
+
+.facebooklogo{
+        width: 1em
+}
+
+div{
+    background: white;
+    text-align: center;
+    box-shadow: 1px 1px 4px 4px gray;
+    height: 400px;
+    width: 700px;
+    padding: 100px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.facebooklink:hover{
+    background-color: rgb(4, 154, 255);
+    display: ruby;
+
+}
+
+.profilepic{
+    border-radius: 50%;
+    width: 15em
+}
